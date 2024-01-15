@@ -1,2 +1,6 @@
-# Replit_Commission_ImageReader
-This was for a replit client that needed to read thousands of images based off of certain criterion as accurately as possible
+This program requires pytesseract to be installed to the system path
+and environment variables on windows.
+
+This was made for a replit commission where a client needed
+To record a lot of data from thousands of images
+This data would need to be stored in CSV/EXCEL files
